@@ -56,7 +56,6 @@ char readChar()
     return character;
 }
 
-
 int gagne(int lettreTrouvee[])
 {
     int i = 0;
